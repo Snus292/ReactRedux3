@@ -17,6 +17,12 @@
       "name": "Jüri Melnikov",
       "description": "Может выпить  литр кофе за один глоток!",
       "element": "fire"
+    },
+    {
+      "id": "bb5fb563-90b8-4b77-a34c-e661e2aedbb7",
+      "name": "Никита Бутеров",
+      "description": "Может легко расскалывать арбузы мышцами бедер",
+      "element": "wind"
     }
   ],
   "filters": [
