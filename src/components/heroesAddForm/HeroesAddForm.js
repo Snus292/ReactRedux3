@@ -43,7 +43,7 @@ const HeroesAddForm = () => {
         if (filters && filters.length > 0) {
             return filters.map(({ name, label }) => {
                 //eslint-disable-next-line
-                if (name === "all")  return;
+                if (name === "all") return;
 
                 return <option key={name} value={name}>{label}</option>;
             })
